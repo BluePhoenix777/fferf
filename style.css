@@ -1,0 +1,16 @@
+h1 {
+    color:#ff7300
+}
+
+.para1 {
+    color:royalblue
+}
+
+body{
+    background-color:#e2ffd9
+}
+
+.Games {
+    display:flex;
+    justify-content: space-evenly
+}
